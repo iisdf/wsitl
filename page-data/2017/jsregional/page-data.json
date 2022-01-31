@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-components-pages-championship-js",
+    "path": "/2017/jsregional",
+    "result": {"pageContext":{"championship":{"id":"js_regional_2017","path":"jsregional","year":2017,"order":1,"name":"Региональный чемпионат JuniorSkills 2017","shortname":"","picture":"https://pp.userapi.com/c846523/v846523787/1fbe50/fGh5yBN5jcc.jpg","news":["https://vk.com/wall18661439_1446","https://vk.com/wall-45121270_2411"],"album":"https://vk.com/album-166579003_265124856","participants":[{"name":"Сафин Риназ","skill":"JS39","junior":false,"place":1,"skill_name":"Сетевое и системное администрирование (JuniorSkills)"},{"name":"Сетров Александр","skill":"JS39","junior":false,"place":1,"skill_name":"Сетевое и системное администрирование (JuniorSkills)"}],"stats":{"highest":1,"first":2,"second":0,"third":0,"fourth":0,"total":2},"link":"/2017/jsregional"}}},
+    "staticQueryHashes": []}

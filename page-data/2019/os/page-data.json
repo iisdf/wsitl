@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-components-pages-championship-js",
+    "path": "/2019/os",
+    "result": {"pageContext":{"championship":{"id":"os_2019","path":"os","year":2019,"order":1,"name":"Отборочные соревнования WorldSkills на право участия в Национальном чемпионате 2019","shortname":"Отборочные соревнования WorldSkills 2019","picture":"https://sun9-55.userapi.com/c855132/v855132053/19ab88/nSroB6dDwjk.jpg","news":[],"album":"","participants":[{"name":"Лукьянов Артур","skill":"39","junior":true,"place":0,"skill_name":"Сетевое и системное администрирование"},{"name":"Иванов Радик","skill":"R11","junior":true,"place":0,"skill_name":"Предпринимательство"},{"name":"Хамзин Рустем","skill":"R11","junior":true,"place":0,"skill_name":"Предпринимательство"}],"stats":{"highest":5,"first":0,"second":0,"third":0,"fourth":0,"total":3},"link":"/2019/os"}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-components-pages-championship-js",
+    "path": "/2018/os",
+    "result": {"pageContext":{"championship":{"id":"os_2018","path":"os","year":2018,"order":1,"name":"Отборочные соревнования WorldSkills на право участия в Национальном чемпионате 2018","shortname":"Отборочные соревнования WorldSkills 2018","picture":"https://pp.userapi.com/c824409/v824409367/13b7b4/MZ0Q_KzLJgE.jpg","news":["https://vk.com/wall-45121270_3538"],"album":"https://vk.com/album-166579003_256002269","participants":[{"name":"Петров Иван","skill":"17","junior":true,"place":4,"skill_name":"Веб-дизайн и разработка"}],"stats":{"highest":4,"first":0,"second":0,"third":0,"fourth":1,"total":1},"link":"/2018/os"}}},
+    "staticQueryHashes": []}
