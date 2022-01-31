@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwsitl=self.webpackChunkwsitl||[]).push([[883],{9616:function(e,t,n){n.r(t);var a=n(7294),l=n(8163);t.default=function(){return a.createElement(l.Z,{showbanner:!1,title:"Страница не существует"},a.createElement("h1",{className:"text-3xl text-brand text-center my-16"},"404 — Страница не найдена"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-926965de1a645abe1184.js.map
