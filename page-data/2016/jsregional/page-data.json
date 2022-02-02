@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-components-pages-competition-js",
+    "path": "/2016/jsregional",
+    "result": {"pageContext":{"competition":{"id":"js_regional_2016","path":"jsregional","year":2016,"order":2,"priority":"regional","name":"Региональный чемпионат JuniorSkills 2016","shortname":"","picture":"https://pp.userapi.com/c846523/v846523787/1fbe50/fGh5yBN5jcc.jpg","news":["https://vk.com/wall18661439_1446","https://vk.com/wall-45121270_2411"],"album":"https://vk.com/album-166579003_265124856","participants":[{"name":"Сафин Риназ","skill":"JS39","junior":false,"place":1,"skill_name":"Сетевое и системное администрирование (JuniorSkills)"},{"name":"Сетров Александр","skill":"JS39","junior":false,"place":1,"skill_name":"Сетевое и системное администрирование (JuniorSkills)"},{"name":"Зайцев Никита","skill":"JSR23","junior":false,"place":2,"skill_name":"Интернет вещей (JuniorSkills)"},{"name":"Мусин Алмаз","skill":"JSR23","junior":false,"place":2,"skill_name":"Интернет вещей (JuniorSkills)"}],"stats":{"highest":1,"first":2,"second":2,"third":0,"fourth":0,"total":4},"link":"/2016/jsregional"}}},
+    "staticQueryHashes": []}
